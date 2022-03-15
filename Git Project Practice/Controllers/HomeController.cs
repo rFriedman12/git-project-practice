@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Git_Project_Practice.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : Controll,vcjer
     {
         private readonly ILogger<HomeController> _logger;
 
